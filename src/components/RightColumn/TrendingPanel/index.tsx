@@ -9,48 +9,26 @@ const TrendingPanel: React.FC = () => {
     <Container>
       <Panel>
         <span className="title">Assuntos mais discutidos</span>
-
         <ul>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="head">Como dominar o mundo?</span>
+              <span className="subtext">há 1 d • 2M leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="head">Expulsão dos cachorros</span>
+              <span className="subtext">há 5 d • 700mil leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
-            </span>
-          </li>
-          <li>
-            <span className="bullet" />
-            <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
-            </span>
-          </li>
-          <li>
-            <span className="bullet" />
-            <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
-            </span>
-          </li>
-          <li>
-            <span className="bullet" />
-            <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="head">Guerra ao banho</span>
+              <span className="subtext">há 1 M • 420mil leitores</span>
             </span>
           </li>
         </ul>
