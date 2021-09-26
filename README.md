@@ -7,11 +7,13 @@ Para fazer a execução você nescessariamente deve ter o NODE instalado em sua 
 Com o node já em mãos, basta entrar na pasta do projeto e executar os seguintes comandos:
 
 npm install
+
 npm run start
 
-Caso tenha problemas com a utilização do NPM, você também pode usar o YARN.
+Caso tenha problemas com a utilização do NPM, você também pode usar o YARN:
 
 yarn install
+
 yarn dev
 
 Bons estudos! :)
