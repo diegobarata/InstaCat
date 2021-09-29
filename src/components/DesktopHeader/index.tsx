@@ -1,6 +1,7 @@
-import React from 'react';
-import { GrGithub } from 'react-icons/gr';
+//Este é o componente responsavel pelo header.
 
+import React from 'react';
+//importações dos componentes 
 import {
   Container,
   Wrapper,
@@ -17,11 +18,12 @@ const Header: React.FC = () => {
   return (
     <Container>
       <Wrapper>
+        {/* icone da pagina */}
         <div className="left">
             <GitHub />
           <SearchInput placeholder="Pesquisar" />
         </div>
-
+        {/* botão de início, notificações e "eu"  */}
         <div className="right">
           <nav>
             <button className="active">

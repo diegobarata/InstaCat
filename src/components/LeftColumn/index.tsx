@@ -1,3 +1,4 @@
+//componente responsavel por organizar toda a coluna da esquerda
 import React from 'react';
 
 import LoadingProfilePanel from '../Shimmer/LoadingProfilePanel';

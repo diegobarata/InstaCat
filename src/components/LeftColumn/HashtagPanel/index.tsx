@@ -1,3 +1,4 @@
+//componente para exibição das Hashtags
 import React from 'react';
 
 import Panel from '../../Panel';

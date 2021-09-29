@@ -1,5 +1,6 @@
+//componente que organiza todo o conteúdo da pagina
 import React, { useState, useEffect } from 'react';
-
+//importações dos componentes
 import MobileHeader from '../MobileHeader';
 import DesktopHeader from '../DesktopHeader';
 import AdBanner from '../AdBanner';
@@ -8,7 +9,7 @@ import MiddleColumn from '../MiddleColumn';
 import RightColumn from '../RightColumn';
 
 import { Container } from './styles';
-
+//parte responsavel pelo carregamento do Layout antes do conteúdo
 const Layout: React.FC = () => {
   const [isLoading, setLoading] = useState(true);
 
@@ -19,6 +20,7 @@ const Layout: React.FC = () => {
   }, []);
 
   return (
+    // organização do conteudo
     <Container>
       <MobileHeader />
       <DesktopHeader />

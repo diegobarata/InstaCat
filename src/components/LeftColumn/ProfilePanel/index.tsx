@@ -1,3 +1,5 @@
+//componente para exibição do usuário
+
 import React from 'react';
 
 import Panel from '../../Panel';

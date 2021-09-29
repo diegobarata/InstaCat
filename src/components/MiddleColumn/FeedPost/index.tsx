@@ -1,3 +1,4 @@
+//componente responsavel pelo feed
 import React from 'react';
 
 import Panel from '../../Panel';
