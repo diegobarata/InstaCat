@@ -1,5 +1,3 @@
-#InstaCat
-
 Este é um site construido para um TCC (trabalho de conclusão de curso) do Colégio Pedro II Campus Duque de Caxias.
 
 O site foi construido usando React.js.
